@@ -1,0 +1,2 @@
+# AmharicNER
+Named Entity Recognition
